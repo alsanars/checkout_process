@@ -1,8 +1,6 @@
-# CheckoutProcess
+# Checkout Process
 
-Ruby exercise by:
-
-Álvaro Sánchez <alsanars@icloud.com>
+Ruby exercise for an Ecommerce checkout process
 
 # Requirements
 
