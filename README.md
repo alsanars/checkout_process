@@ -18,4 +18,4 @@ _Execute Unit Test from command line typing_
 > `bundle exec rake test`
 
 _Execute Pry Console from command line typing_
-> `bundle exec rake test`
+> `bundle exec rake console`
